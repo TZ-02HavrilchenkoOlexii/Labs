@@ -1,0 +1,183 @@
+﻿
+.container {
+    margin-left:10px;
+    margin-right:10px;
+    border-radius:20px 20px 0px 0px;
+}
+.right {
+    width: 75%;
+    float: right;
+    background-color: white;
+}
+.navbar {
+    color:#808080;
+    padding-top:25px;
+    padding-left:150px;
+    display: flex;
+    justify-content: space-around;     
+}
+.about{
+    color:#ffffff;
+    background-color:#0026ff;
+    width:75px;
+    text-align:center;
+    border-radius:10px;
+}
+.button {
+    padding: 10px 5px;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #c5e0e0a2;
+    width: 25%;
+    float: left;
+    border: 0px solid;
+    border-radius: 20px;
+}
+
+.photo{
+    border-radius: 60px;
+    margin-top: 26px;
+}
+
+.social{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.name{
+    font-size: 40px;
+    height: 50px;
+    margin-top: 10px;
+    color: darkslategrey;
+    font-family: Cambria, Cochin, Georgia, Times,  New Roman, serif;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+.contacts {
+    width: 100%;
+    height: 60px; 
+    color: darkslategrey;
+    font-family: Cambria, Cochin, Georgia, Times,  New Roman, serif;
+    font-size:25px;  
+}
+.icon{
+    width: 20px;
+    height: 20px;
+}
+
+.icon2{
+    width: 30px;
+    height: 30px;
+}
+
+.icon2w
+{
+    margin-left:20px ;
+}
+
+.downl{
+    color:white;
+    background-color:#0026ff;
+    height:45px;
+    width:180px;
+    text-align:center;
+    border-radius:20px;
+    padding-top:10px;
+    margin-top: 20px;
+    margin-bottom: 300px;
+}
+.job{
+    background-color: rgba(190, 190, 190, 0.671);
+    padding: 2%;
+    margin: 10px;
+    color: rgb(87, 84, 84);
+    border-radius: 10px;
+    text-align: center;
+    width: 50%;
+    color: darkslategrey;
+    font-family: Cambria, Cochin, Georgia, Times,  New Roman, serif;
+    font-size:25px;  
+}
+
+
+
+.content{
+    margin-left: 20px;
+}
+
+.abouttext{
+    width:90%;
+    color: darkslategrey;
+    font-family: Cambria, Cochin, Georgia, Times,  New Roman, serif;
+    font-size: 20px;
+}
+
+.hobbies {
+    display: flex;
+    flex-direction: row;
+}
+.hobbies_1 {
+    border-radius: 15px;
+    border: 1px solid;
+    border-color: #8a8b8b;
+    width: 467px;
+    height: 265px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+}
+
+.dotext{
+    font-family: Cambria, Cochin, Georgia, Times,  New Roman, serif;
+    color: darkslategray;
+    font-size: 25px;
+
+}
+
+.doicon{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+h2{
+    color: darkslategrey;
+    font-family: Cambria, Cochin, Georgia, Times,  New Roman, serif;
+    font-size:30px;
+    margin: 20px;
+}
+
+
+.line {
+    margin-top: 10px;
+    display: flex;
+}
+
+.short {
+    width: 10px;
+    border: 3px solid #f99058;
+    margin-left: 6px;
+    border-radius: 1.5px;
+    background-color: #f99058;
+}
+
+.long {
+    width: 30px;
+    margin-right: 10px;
+    border-radius: 1.5px;
+    background-color: #2948fd;
+}
